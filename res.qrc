@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/image/exe.png</file>
+        <file>res/image/joint.png</file>
+        <file>res/image/SMT.png</file>
+        <file>res/image/tool.png</file>
+        <file>res/image/add.png</file>
+        <file>res/image/overturn_lr.png</file>
+        <file>res/image/overturn_ud.png</file>
+        <file>res/image/rotate_l.png</file>
+        <file>res/image/rotate_r.png</file>
+        <file>res/image/save.png</file>
+        <file>res/image/send.png</file>
+        <file>res/image/switchover.png</file>
+    </qresource>
+</RCC>
